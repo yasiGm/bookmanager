@@ -1,5 +1,7 @@
 # 📚 Book Manager API
 
+> **Demo project.** Built independently to practice Spring Boot API design (layered architecture, testing, API docs). Not affiliated with or built for any employer.
+
 A simple RESTful web application built with **Spring Boot** for managing a collection of books. It supports basic CRUD operations, data validation, exception handling, unit testing, and API documentation via Swagger.
 
 ---
